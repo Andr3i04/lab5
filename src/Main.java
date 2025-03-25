@@ -38,9 +38,9 @@ public class Main {
         return persoane;
     }
 
-    private static void afisareEcran(List<Persoana> persoane) {
-        for (Persoana persoana : persoane) {
-            System.out.println(persoana);
+        private static void afisareEcran(List<Persoana> persoane) {
+            for (Persoana persoana : persoane) {
+                System.out.println(persoana);
+            }
         }
-    }
 }
