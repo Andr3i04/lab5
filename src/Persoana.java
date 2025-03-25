@@ -1,4 +1,4 @@
-public class Persoana implements Comparable<Persoana>{
+public class Persoana implements Comparable<Persoana> {
     String nume;
     String prenume;
     int varsta;
